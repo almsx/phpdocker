@@ -20,4 +20,11 @@ Run mysql client:
 
 In the folder www/index.php file contains the phpinfo() function to verify that everything works correctly ;)
 
+Credentials:
+
+BD: myDb
+User: user
+Password: test
+Root Password: test
+
 Enjoy !
